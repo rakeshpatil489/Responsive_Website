@@ -1,0 +1,75 @@
+body
+{
+    background-color: #f5d9d5;
+    font-family: 'Nunito Sans', sans-serif;
+
+}
+.navbar-light .navbar-brand
+{
+    color: #e01e1ee8;
+}
+.navbar-light .navbar-nav .nav-link
+{
+    color:#fff;
+    font-size: 1.25rem;
+}
+.navbar-light .navbar-nav .nav-link:hover
+{
+    color: #e01e1ee8;
+}
+.navbar-light .navbar-brand:hover {
+
+    color: #e01e1ee8;
+}
+h1
+{
+    color:#ffff;
+    font-weight: 100;
+}
+span
+{
+    color: #e01e1ee8; 
+}
+.col-lg-6, .col-md-6
+{
+   padding-right: 0px;
+   padding-left: 0px;
+}
+.para h1
+{
+    color: #e01e1ee8;
+}
+.para p
+{
+    color: #f498b8;
+    line-height: 1.8;
+}
+.cont
+{
+    margin-top: 100px;
+}
+.navbar
+{
+    background-color: #e4bee0;
+}
+.margin
+{
+    margin-top: 50px;
+}
+
+
+@media(max-width:734px)
+{
+h1
+{
+    font-size:1.5rem;
+    font-weight: 100;
+}
+.col-lg-6
+{
+   padding-right: 0px;
+   padding-left: 0px;
+}
+}
+
+
